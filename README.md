@@ -1,3 +1,5 @@
-Hello, I am Lizardev.
+🦎 Hello, I am Lizardev
 
-I make stuff. Interested in blockchain and frontend development.
+💻 I make stuff. 
+
+✨ Interested in blockchain and frontend development.

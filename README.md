@@ -1,5 +1,8 @@
-🦎 Hello, I am Lizardev
+## Hey, I'm Liz 🦎
 
-💻 I make stuff. 
-
-✨ Interested in blockchain and frontend development.
+- CTO @ [Chain Legion](chainlegion.com)
+- Coding preferences
+  - Solidity
+  - Java
+  - JS
+  - React
